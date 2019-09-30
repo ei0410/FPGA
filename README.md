@@ -1,1 +1,4 @@
 # FPGA
+# windows10
+# DIGILENT ATLYS
+# ISE 14.7
