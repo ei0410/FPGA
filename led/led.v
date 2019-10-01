@@ -18,6 +18,7 @@
 // Additional Comments: 
 //
 //////////////////////////////////////////////////////////////////////////////////
+/*
 module led(clk, out);
 	input wire clk;
 	output wire out;
@@ -30,4 +31,12 @@ module led(clk, out);
 		counter <= counter + 1'b1;
 		if (counter == 0) flag = !flag;
 	end
+endmodule
+*/
+module led(sw0, sw1, sw2, out);
+	input wire sw0;
+	input wire sw1;
+	input wire sw2;
+	output wire out;
+	or(out, sw0, sw1, sw2);
 endmodule

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2019-09-30T23:12:00</DateModified>
+  <DateModified>2019-10-01T15:07:49</DateModified>
   <ModuleName>led</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>C:/Xilinx/Verilog/led/iseconfig/led.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>C:/Xilinx/Verilog/led</ImplementationReportsDirectory>
+  <SavedFilePath>C:/Xilinx/FPGA/led/iseconfig/led.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>C:/Xilinx/FPGA/led\</ImplementationReportsDirectory>
   <DateInitialized>2019-09-30T23:11:59</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

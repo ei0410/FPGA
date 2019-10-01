@@ -1,0 +1,3 @@
+NET "sw0" LOC = "P86";
+NET "sw1" LOC = "P84";
+NET "out" LOC = "P79";

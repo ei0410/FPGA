@@ -31,31 +31,24 @@ Data Sheet report:
 -----------------
 All values displayed in nanoseconds (ns)
 
-Clock clk to Pad
-------------+-----------------+------------+-----------------+------------+------------------+--------+
-            |Max (slowest) clk|  Process   |Min (fastest) clk|  Process   |                  | Clock  |
-Destination |  (edge) to PAD  |   Corner   |  (edge) to PAD  |   Corner   |Internal Clock(s) | Phase  |
-------------+-----------------+------------+-----------------+------------+------------------+--------+
-out         |         9.020(R)|      SLOW  |         4.881(R)|      FAST  |clk_BUFGP         |   0.000|
-------------+-----------------+------------+-----------------+------------+------------------+--------+
-
-Clock to Setup on destination clock clk
----------------+---------+---------+---------+---------+
-               | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
-Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
----------------+---------+---------+---------+---------+
-clk            |    2.213|         |         |         |
----------------+---------+---------+---------+---------+
+Pad to Pad
+---------------+---------------+---------+
+Source Pad     |Destination Pad|  Delay  |
+---------------+---------------+---------+
+sw0            |out            |   11.094|
+sw1            |out            |   12.190|
+sw2            |out            |   10.534|
+---------------+---------------+---------+
 
 
-Analysis completed MON 30 SEP 23:22:2 2019 
+Analysis completed TUE 1 OCT 12:44:42 2019 
 --------------------------------------------------------------------------------
 
 Trace Settings:
 -------------------------
 Trace Settings 
 
-Peak Memory Usage: 4598 MB
+Peak Memory Usage: 4597 MB
 
 
 

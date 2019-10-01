@@ -1,2 +1,5 @@
-NET "clk" LOC = "L15";
+//NET "clk" LOC = "L15";
+NET "sw0" LOC = "N4";
+NET "sw1" LOC = "F5";
+NET "sw2" LOC = "P3";
 NET "out" LOC = "U18";
