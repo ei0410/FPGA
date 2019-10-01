@@ -3,6 +3,7 @@ this repository is practice for FPGA
 
 # Dependency
 Xilinx ISE Webpack 14.7
+VerilogHDL
 
 # Board
 DIGILENT ATLYS and Papilio One 500k
