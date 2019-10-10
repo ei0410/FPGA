@@ -1,0 +1,8 @@
+papilio/*
+!*.v
+!*.ucf
+!*.bit
+atlys/*
+!*.v
+!*.ucf
+!*.bit
