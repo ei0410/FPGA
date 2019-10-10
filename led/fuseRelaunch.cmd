@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Xilinx/FPGA/led/testOR_isim_beh.exe" -prj "C:/Xilinx/FPGA/led/testOR_beh.prj" "work.testOR" "work.glbl" 

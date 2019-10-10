@@ -1,8 +1,0 @@
-INTSTYLE=ise
-INFILE=C:\Xilinx\FPGA\papilio\led\led.ncd
-OUTFILE=C:\Xilinx\FPGA\papilio\led\led.bit
-FAMILY=Spartan3E
-PART=xc3s500e-5vq100
-WORKINGDIR=C:\Xilinx\FPGA\papilio\led
-LICENSE=WebPack
-USER_INFO=211591497_0_0_059
