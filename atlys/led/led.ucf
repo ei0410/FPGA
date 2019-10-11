@@ -1,0 +1,3 @@
+#NET "s0" LOC = "A10";
+NET "s1" LOC = "F5";
+NET "q" LOC = "U18";

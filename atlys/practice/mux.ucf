@@ -1,0 +1,11 @@
+NET "d0[0]" LOC = "A10";
+NET "d0[1]" LOC = "D14";
+NET "d0[2]" LOC = "C14";
+NET "d1[0]" LOC = "P15";
+NET "d1[1]" LOC = "P12";
+NET "d1[2]" LOC = "R5";
+NET "sel" LOC = "T5";
+
+NET "y[0]" LOC = "U18";
+NET "y[1]" LOC = "M14";
+NET "y[2]" LOC = "N14";

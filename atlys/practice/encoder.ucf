@@ -1,0 +1,8 @@
+NET "data[0]" LOC = "A10";
+NET "data[1]" LOC = "D14";
+NET "data[2]" LOC = "C14";
+NET "data[3]" LOC = "P15";
+
+NET "y[0]" LOC = "U18";
+NET "y[1]" LOC = "M14";
+NET "y[2]" LOC = "N14";
