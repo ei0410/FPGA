@@ -1,0 +1,4 @@
+NET "clk" LOC = "L15";
+
+NET "count[0]" LOC = "U18";
+NET "count[1]" LOC = "M14";

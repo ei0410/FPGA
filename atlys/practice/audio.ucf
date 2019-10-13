@@ -1,0 +1,5 @@
+NET "clk" LOC = "L15";
+
+NET "btn" LOC = "F5";
+
+NET "spkr" LOC = "N16";
